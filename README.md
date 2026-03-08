@@ -21,7 +21,9 @@ I enjoy building gameplay systems and experimenting with new ideas in game devel
 * Releasing my first game on Steam
 
 📂 Projects
+
 You can find examples of my work in the pinned repositories below.
 
 📫 Contact
+
 LinkedIn: https://www.linkedin.com/in/james-gardner-a369312a7/
